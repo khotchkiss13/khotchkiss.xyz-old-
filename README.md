@@ -1,2 +1,0 @@
-# khotchkiss.xyz
-Personal Website
